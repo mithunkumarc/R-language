@@ -17,3 +17,8 @@
 #### Download R studio
 
         https://www.rstudio.com/products/rstudio/download/#download
+
+
+#### launch R studio
+
+      mitun@mithun-Latitude-E6230:~/ide/rstudio-1.2.1335-amd64/data/usr/lib/rstudio/bin$ ./rstudio
